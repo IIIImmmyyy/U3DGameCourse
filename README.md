@@ -35,7 +35,7 @@
     
 ## 4. 对抗升级，有保护怎么办？
 > 本次课程购买者将附送工具授权。以下为工具介绍:
-> * Runtime下dump 输出 Dump.cs il2cpp.h  IDA脚本 <font color ="#ff0000">(赠送半年使用授权)</font>
+> * Runtime下dump 输出 Dump.cs il2cpp.h  IDA脚本 <font color ="#ff0000">(赠送半年使用授权)</font> [示例视频](https://www.bilibili.com/video/BV15z4y1G7Gv/)
 > * U3D 函数堆栈追踪器(UE4版本后续推出)<font color ="#ff0000">(赠送半年使用授权)</font>
 > * 内部定制版frida <font color ="#ff0000">（学员免费）</font>
 
