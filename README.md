@@ -49,8 +49,8 @@
 > * 基本的动手能力
 
 > * 注： 因报名后未满足必须项所引起的纠纷一概不进行任何退款
-## 6. 课程简介
-> * 书写中
+## 6. 课程目录
+<img width="1687" alt="ImyU3D" src="https://github.com/IIIImmmyyy/U3DGameCourse/blob/main/u3d.pdf">
 
 
 
