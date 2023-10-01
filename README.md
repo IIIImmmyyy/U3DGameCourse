@@ -50,7 +50,7 @@
 
 > * 注： 因报名后未满足必须项所引起的纠纷一概不进行任何退款
 ## 6. 课程目录
-![images](https://github.com/IIIImmmyyy/U3DGameCourse/blob/main/source/u3d.pdf)
+<img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
 
 
