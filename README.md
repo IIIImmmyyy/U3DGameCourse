@@ -52,7 +52,13 @@
 ### 课程已正式开始
 > ### 一.基础篇
 > #### 1.课程概述（已录制）
-> #### 2.什么是Il2Cpp（已录制）
+> #### 2.使用工具（已录制）
+> #### 3.Il2Cpp介绍（已录制）
+> #### 4.什么是Il2Cpp (已录制）
+> #### 5.Dump篇-为什么需要Runtime下Dump(已录制）
+> #### 6.Dump篇-初识Dump的3个结构体(1) (已录制）
+> #### 6.Dump篇-初识Dump的3个结构体(2) (已录制）
+> #### 6.Dump篇-初识Dump的3个结构体(3) (已录制）
 > #### 持续更新中.
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
