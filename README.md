@@ -59,6 +59,9 @@
 > #### 6.Dump篇-初识Dump的3个结构体(1) (已录制）
 > #### 6.Dump篇-初识Dump的3个结构体(2) (已录制）
 > #### 6.Dump篇-初识Dump的3个结构体(3) (已录制）
+> #### 7.Dump篇-Runtime中Dump dll(1) (已录制）
+> #### 7.Dump篇-Runtime中Dump dll(2) (已录制）
+> #### 7.Dump篇-Runtime中Dump dll(3) (已录制）
 > #### 持续更新中.
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
