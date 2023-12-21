@@ -56,12 +56,13 @@
 > #### 3.Il2Cpp介绍（已录制）
 > #### 4.什么是Il2Cpp (已录制）
 > #### 5.Dump篇-为什么需要Runtime下Dump(已录制）
-> #### 6.Dump篇-初识Dump的3个结构体(1) (已录制）
-> #### 6.Dump篇-初识Dump的3个结构体(2) (已录制）
-> #### 6.Dump篇-初识Dump的3个结构体(3) (已录制）
-> #### 7.Dump篇-Runtime中Dump dll(1) (已录制）
-> #### 7.Dump篇-Runtime中Dump dll(2) (已录制）
-> #### 7.Dump篇-Runtime中Dump dll(3) (已录制）
+> ###  Il2Cpp基础正式开始
+> #### 6.Dump篇-初识Dump的3个结构体(1) (已录制 时长20:19）
+> #### 6.Dump篇-初识Dump的3个结构体(2) (已录制 时长25:57）
+> #### 6.Dump篇-初识Dump的3个结构体(3) (已录制 时长19:50）
+> #### 7.Dump篇-Runtime中Dump dll(1) (已录制 时长37:00）
+> #### 7.Dump篇-Runtime中Dump dll(2) (已录制 时长37:25 ）
+> #### 7.Dump篇-Runtime中Dump dll(3) (已录制 时长31:31 ）
 > #### 持续更新中.
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
