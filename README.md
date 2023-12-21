@@ -48,7 +48,7 @@
 > * 基本的动手能力
 
 > * 注： 因报名后未满足必须项所引起的纠纷一概不进行任何退款
-## 6. 课程目录
+## 6. 课程目录 [试看之Il2Cpp源码讲解] https://www.bilibili.com/video/BV1X94y1P7Wh/?share_source=copy_web&vd_source=b88a073b636c0433064f22143b33cb9b
 ### 课程已正式开始
 > ### 一.基础篇
 > #### 1.课程概述（已录制）
