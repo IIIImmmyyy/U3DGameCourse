@@ -65,6 +65,7 @@
 > #### 7.Dump篇-Runtime中Dump dll(1) (已录制 时长37:00）
 > #### 7.Dump篇-Runtime中Dump dll(2) (已录制 时长37:25 ）
 > #### 7.Dump篇-Runtime中Dump dll(3) (已录制 时长31:31 ）
+> #### 8.Dump篇-Runtime中Dump 泛型Class，前缀Class ，接口Class 合并（已录制 时长107:00）
 > #### 持续更新中.
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
