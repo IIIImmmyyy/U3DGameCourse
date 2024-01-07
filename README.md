@@ -69,6 +69,8 @@
 > #### 9.Dump篇-Rntimee中Dump Filed Methods （已录制 时长98:00）
 > #### 10.Dump篇 - 什么是Usage及它的使用场景 （已录制 时长105:00）
 > #### 持续更新中.
+### 番外篇 
+> #### 内核调用绕过保护DumpSo (时长31：00)
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
 ## 7. 课程答疑
