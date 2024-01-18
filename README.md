@@ -67,10 +67,12 @@
 > #### 7.Dump篇-Runtime中Dump dll(3) (已录制 时长31:31 ）
 > #### 8.Dump篇-Runtime中Dump 泛型Class，前缀Class ，接口Class 合并（已录制 时长107:00）
 > #### 9.Dump篇-Rntimee中Dump Filed Methods （已录制 时长98:00）
-> #### 10.Dump篇 - 什么是Usage及它的使用场景 （已录制 时长105:00）
+> #### 10.Dump篇-什么是Usage及它的使用场景 （已录制 时长105:00）
+> #### 11.Dump篇-泛型函数调用表（已录制 时长145:00）
 > #### 持续更新中.
 ### 番外篇 
 > #### 内核调用绕过保护DumpSo (时长31：00)
+> #### 无Hook及Hook 2种方式获取静态变量值(时长47：00)
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
 ## 7. 课程答疑
