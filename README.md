@@ -77,11 +77,11 @@
 > #### 企鹅MOBA魔改引擎还原（1） （时长: 90:00）
 > #### 企鹅MOBA魔改引擎还原及字符串解密（2） （时长: 100:00）
 > #### 企鹅MOBA数据分析(3)(时长60:00)
-> ###  企鹅MOBA信息读取(4)（时长60:00）
+> ####  企鹅MOBA信息读取(4)（时长60:00）
 ### 番外篇 
 > #### 内核调用绕过保护DumpSo (时长31：00)
 > #### 无Hook及Hook 2种方式获取静态变量值(时长47：00)
-> ###  某保护之消失的global-metadata(时长37:00);
+> ####  某保护之消失的global-metadata(时长37:00);
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
 ## 7. 课程答疑
