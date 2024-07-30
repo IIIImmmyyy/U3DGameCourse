@@ -1,6 +1,6 @@
 # Android U3D手游安全中级篇
 
-## （上次课程更新时间 2024/7/7）
+## （上次课程更新时间 2024/7/30）
 
 ## 1. 前言
 > Android逆向的知识体系复杂多样，技术更新速度更是惊人。但市面上的教程大多还停留在<font color ="#ff0000">**Unity Dll，
@@ -106,6 +106,7 @@
 > #### 内核调用绕过保护DumpSo (时长31：00)
 > #### 无Hook及Hook 2种方式获取静态变量值(时长47：00)
 > ####  某保护之消失的global-metadata(时长37:00);
+> #### 热点武侠吃鸡手游YJDump分析(时长39:00) (2024/7/26更新);
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
 
 ## 7. 课程答疑
