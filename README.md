@@ -38,7 +38,7 @@
 > * U3D 函数堆栈追踪器(UE4版本后续推出)<font color ="#ff0000"></font>[示例视频](https://www.bilibili.com/video/BV1P94y1Y7pX/)
 > * 内部定制版frida <font color ="#ff0000">（学员免费）</font>
 > * 无痕注入  非内核root下最完美的无痕注入 （所有检测点均pass）
-> * libtprt 一键修复工具，包含So修复、global-metdata修复 ，可在PCIl2CppDumper直接使用
+> * libtprt 一键修复工具，包含So修复、global-metdata修复 ，可在PCIl2CppDumper直接使用 （均有源码）
 
 > 注：  <font color ="#ff0000">**以上工具仅限学员内部学习使用，非学员不可使用也无法购买授权,学员非在授权范围内使用，将收回授权。如学员使用本工具造成法律后果由当事人全部承担。若发现工具泄露出去全部收回授权**</font>
 
