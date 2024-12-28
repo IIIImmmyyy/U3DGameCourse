@@ -1,6 +1,6 @@
 # Android U3D手游安全中级篇
 
-## （上次课程更新时间 2024/11/25）
+## （上次课程更新时间 2024/12/28）
 
 ## 1. 前言
 > Android逆向的知识体系复杂多样，技术更新速度更是惊人。但市面上的教程大多还停留在<font color ="#ff0000">**Unity Dll，
@@ -114,6 +114,7 @@
 > #### 国内保护天花板X盾符号表还原（36:00） (2024/9/14 更新)
 > #### libtprt 一键修复工具使用(10:00) (2024/11/9 更新)
 > #### Elf文件格式详解 (30:00 ) (2024/11/9 更新)
+> #### 反ollvm-ollvm基本介绍及各方案优缺点
 ### 资源篇
 > #### 外部加载自定义资源 (60:00)
 <img alt ="u3d.ong" src="https://raw.githubusercontent.com/IIIImmmyyy/U3DGameCourse/main/source/u3d.png" >
